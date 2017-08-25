@@ -1,0 +1,16 @@
+#navigator {
+  width: 720px;
+  overflow: hidden;
+  }
+.navbar-brand img {
+  height: 2rem;
+  width: auto;
+}
+.offset {
+  position: relative;
+  top: 5rem;
+}
+.carousel {
+  height: 40rem;
+  overflow: hidden;
+}
