@@ -1,0 +1,58 @@
+
+
+
+#navigator {
+  width: 720px;
+  overflow: hidden;
+  }
+.myTween1, .myTween2, .myTween3 {
+  opacity: 0;
+}
+.navbar-brand img {
+  height: 2rem;
+  width: auto;
+}
+.nav-item {
+  padding: 0 2rem;
+  margin: 0 2rem;
+}
+.nav-link {
+  font-weight: bold;
+  border-radius: 10px;
+  color: black;
+}
+.navbar-nav > li > a:hover,
+.navbar-nav > li > a:focus {
+    background-color: #D46A6A;
+    color: white!important;
+}
+/*
+.navbar-nav > .active > a:hover,
+.navbar-nav > .active > a:focus {
+    color: #FFF;
+    background-color: #AA0000;
+}*/
+
+
+.navbar-toggle {
+    border-color: #AA0000;
+}
+
+.navbar-toggle:hover,
+.navbar-toggle:focus {
+    background-color: white;
+}
+
+.navbar-toggle .icon-bar {
+    background-color: #FFF;
+}
+
+.container {
+  margin-top: 2rem;
+}
+.carousel {
+  overflow: hidden;
+}
+.reverse {
+  flex-direction:row-reverse;
+}
